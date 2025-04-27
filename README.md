@@ -6,8 +6,14 @@
 
 
 <code>
-
-
+<div id="formss">
+          <a href="#" class="btn btn-light me-1 waves-effect waves-float waves-light" id="opencamera">
+	Open camera
+	 </a >								                      
+<input type="file" name="file1" id="uploadFileInput" class="form-control"   >
+</div>
+	
+<div id="cameraArea"></div>
  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
 <script src="BadLogicRotate/badlogic-image-rotate.js"></script>
