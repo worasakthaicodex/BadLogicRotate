@@ -1,12 +1,14 @@
 # BadLogicRotate
  BadLogicRotate เป็นเครื่องมือที่ช่วยให้การถ่ายภาพ, หมุนภาพ, และจัดการไฟล์รูปภาพในเว็บแอปพลิเคชันสะดวกขึ้น โดยรองรับการถ่ายภาพจากกล้อง, หมุนภาพ, และแสดงตัวอย่างภาพอย่างง่ายดาย
-เเปลงเป็นไฟล์ PDF เเล้วโหลดเป็นไฟล์ หรือ ใส่เข้าไปใน input file ได้อย่างง่ายได้
+เเปลงเป็นไฟล์ PDF เเล้วโหลดเป็นไฟล์ หรือ ใส่เข้าไปใน input file ได้อย่างง่ายได้  เเค่ นำเข้าการพึ่งพา  jspdf.umd.min.js
 
 
 
 
 <code>
-นำเข้าการพึ่งพา  jspdf.umd.min.js
+
+
+ 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
 <script src="BadLogicRotate/badlogic-image-rotate.js"></script>
 
